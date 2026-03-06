@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Rainbow Debian icon">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e11d48"/>
+      <stop offset="18%" stop-color="#f97316"/>
+      <stop offset="34%" stop-color="#eab308"/>
+      <stop offset="50%" stop-color="#22c55e"/>
+      <stop offset="66%" stop-color="#06b6d4"/>
+      <stop offset="82%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="24" fill="#ffffff"/>
+  <path d="M71 27c-17 0-29 12-29 28 0 12 8 20 18 20 7 0 12-4 12-10 0-5-3-8-8-8-4 0-7 2-9 5-1-2-2-4-2-7 0-10 7-17 18-17 15 0 24 11 24 28 0 21-15 34-34 34-4 0-9-1-13-2 7 5 16 8 26 8 23 0 41-17 41-42 0-22-16-37-36-37z"
+        fill="none" stroke="url(#rainbow)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
